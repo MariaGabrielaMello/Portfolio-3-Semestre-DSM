@@ -57,7 +57,7 @@ Soft Skills:
 - Organização e gestão de tempo: foi necessário aprender a trabalhar em sprints, visando um bom resultado para o nosso projeto, pois além de entregar o trabalho, é importante aprender a lidar com prazos (do cliente e da equipe) para que fosse possível fortalecer a confiança na equipe e com o cliente.
 
 - Hard Skills:
-  - Programação em Python
+  - Python, trabalhando com raspagem e tratamento de dados públicos e privados;
   - Programação em MySQL
   - Desenvolvimento com o flask, html e css
   - Aprendizado em documentação de projetos no github
@@ -103,15 +103,13 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 
 #### Contribuições pessoais como P.O:
 
-- Elaboração da documentação do DOR.
-- Construção do front-end da aplicação.
-- Documentação do projeto e organização da equipe(função de _master_).
+- Levantamento de requisitos, desenvolvimento do sistema e elaboração da documentação (DOR e DOD). Mantive comunicação constante e transparente com a equipe e o cliente, ajustei funcionalidades e prioridades a cada Sprint. Além disso, elaborei o modelo conceitual, lógico e físico de banco de dados do projeto e também participei na criação da lógica para funções como prazo de vencimento de prazos para resolução de um chamado e envio dos dados ao back-end para cadastro do chamado.
 
 #### Aprendizados
 
 - Soft Skills:
-  - Trabalho em equipe e organização de tarefas: desenvolvido devido à função de _master_.
-  - Falar em público: desenvolvido devido às apresentações das sprints.
+  - Resiliência
+  - 
   
 - Hard Skills:
   - Programação em Typescript e JavaScript.
