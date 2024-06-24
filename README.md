@@ -67,7 +67,7 @@ Soft Skills:
 
 ---
 
-### 1º Semestre de 2023
+### 2º Semestre de 2023
 
 #### Sistema acadêmico de TI (SAT)
 
@@ -90,7 +90,7 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 #### Tecnologias adotadas
 
 - Figma
-- Node JS
+- Node JS+
 - JavaScript
 - TypeScript
 - HTML & CSS
@@ -101,9 +101,9 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 - Axios
 
 
-#### Contribuições pessoais
+#### Contribuições pessoais como P.O:
 
-- Construção do wireframe do projeto.
+- Elaboração da documentação do DOR.
 - Construção do front-end da aplicação.
 - Documentação do projeto e organização da equipe(função de _master_).
 
