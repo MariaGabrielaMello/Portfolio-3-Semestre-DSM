@@ -8,53 +8,19 @@
 - [Sobre mim](#sobre-mim)
 - [API'S](#meus-projetos)
 
-### Primeiro Semestre - 2023
-
-- [1º Semestre • 1/2023 • Consulta-vid](#1º-semestre--012023--consulta-vid)
-  <details>
-    <summary>Detalhes</summary>
-  
-    - [Visão do projeto](#visão-do-projeto)
-    - [Tecnologias adotadas](#tecnologias-adotadas)
-    - [Contribuições pessoais](#contribuições-pessoais)
-    - [Aprendizados](#aprendizados)
-  </details>
-
-### Segundo semestre - 2023
-
-- [2º Semestre • 2/2023 • SAT - Sistema acadêmico de TI](#2º-semestre--22023--sat---sistema-acadêmico-de-ti)
-  <details>
-    <summary>Detalhes</summary>
-  
-    - [Visão do projeto](#visão-do-projeto-1)
-    - [Tecnologias adotadas](#tecnologias-adotadas-1)
-    - [Contribuições pessoais](#contribuições-pessoais-1)
-    - [Aprendizados](#aprendizados-1)
-  </details>
-
-### Terceiro semestre - 2024
-
-- [3º Semestre • 3/2024 • Crtl A](#3º-semestre--32024--crtl-a)
-  <details>
-    <summary>Detalhes</summary>
-  
-    - [Visão do projeto](#visão-do-projeto-2)
-    - [Tecnologias adotadas](#tecnologias-adotadas-2)
-    - [Contribuições pessoais](#contribuições-pessoais-2)
-    - [Aprendizados](#aprendizados-2)
-  </details>
-
 ---
 
 # Sobre mim
 
-<p>Estudante de desenvolvimento de software multiplataforma na FATEC prof. Jessen Vidal (São josé dos campos), atualmente cursando o 3º semestre do curso.</p>
+<p>Estudante do 3º Semestre de Desenvolvimento de Software Multiplataforma na FATEC prof. Jessen Vidal - SJC. Durante a pandemia, ao observar as mudanças pelas quais passamos no que diz respeito aos hábitos do dia a dia que costumávamos realizar de forma presencial e migraram para o modo online, desenvolvi grande interesse pela área de TI. Neste período, pude perceber de forma mais clara como a tecnologia pode nos auxiliar e contribuir para que as tarefas do cotidiano ou atividade mais complexas sejam concluídas mesmo à distância. Assim, decidi ingressar na FATEC e cursar Desnvolvimento de Software, para contribuir com a minha área de interesse. As atividades em que mais me desevolvi até o momento são relacionadas ao frontend (UX e UI). Atualmente também tenho grande curiosidade nos assuntos de IA e outros tópicos que envolvam a interação humano computador e pretendo me aprofundar mais nestes conteúdos.  </p>
 
 ---
 
 # Meus projetos
 
-### 1º Semestre • 01/2023 • Consulta-vid
+### 1º Semestre de 2023
+
+#### Consulta-vid
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
@@ -62,13 +28,13 @@ Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
 #### Visão do projeto
 
-<p>Projeto desenvolvido por alunos do 1º semestre do curso de Desenvolvimento de Software Multiplatafora, da Fatec São José dos Campos - Prof. Jessen Vidal.
+<p>Projeto desenvolvido por alunos do 1º semestre do curso de Desenvolvimento de Software Multiplatafora, da Fatec Prof. Jessen Vidal.
 Consiste na criação de uma aplicação web que permite a analise de dados sobre a covid longa nas cidades de cobertura da Vanguarda, a fim de entender o impacto desssa condição no sistema de saúde das maiores cidades do Vale do Paraíba.
 Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e o MySQL para gerenciar o banco de dados.</p>
 <p>O produto é voltado para profissionais da área de saúde, pesquisadores e público em geral interessado em entender o impacto da covid longa no sistema de saúde das maiores cidades do Vale do Paraíba, a aplicação web ajuda os usuários que desejam ter acesso a dados precisos e atualizados sobre a covid longa nas cidades da região, a fim de entender melhor essa condição e seu impacto na saúde pública. Ao contrário de outros sistemas que podem apresentar dados genéricos sobre a covid-19, esse se concentra especificamente na análise de dados da Covid Longa nas cidades de cobertura da Vanguarda, nosso produto elabora informações detalhadas , incluindo dados sobre casos, hospitalizações, sintomas, tratamentos e outros aspectos relevantes para a compreensão da condição e seus efeitos no sistema de saúde da região. Com base nesses dados, o produto deve ajudar os usuários a entender melhor a Covid Longa e desenvolver estratégias para enfrentá-la de forma eficaz.
 </p>
 
-#### Tecnologias adotadas
+#### Tecnologias utilizadas
 
 - Python.
 - HTML & CSS.
@@ -79,31 +45,31 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 - Figma.
 
 
-#### Contribuições pessoais
+#### Principais atividades desenvolvidas como time de deselvolvimento:
 
-- Construção do wireframe do projeto.
-- Construção do front-end da aplicação.
-- Documentação do projeto e comunicação com o cliente(função de _product owner_).
+- Construção do back-end da aplicação: contribuí no desenvolvimento da lógica de pesquisa e filtragem dos dados que eram de interesse do cliente, por meio de pesquisas sobre o assunto para determinar os possíveis tópicos que seriam pesquisados e adicioná-los no sistema para o cliente. Também contribuí para a estrutura de armazenamentos dos dados com base na lógica de pesquisa, e na estrutura de exportação para gerar o relatório. Além disso atuei na verificação de erros na obtenção dos dados.
 
 #### Aprendizados
 
-- Soft Skills:
-  - Comunicação com o cliente: desenvolvido devido à função de P.O.
-  - Falar em público: desenvolvido devido às apresentações das sprints.
+Soft Skills:
+- Comunicação e trabalho em grupo: pois foi necessário compreender melhor os meus colegas e me expressar de forma mais clara e objetiva, para que fosse possível desenvolver o projeto em sincronia e com transparência o que é imprescindível para o sucesso do projeto.
+- Inteligência emocional: sendo o meu primeiro projeto em grupo na área, foi necessário reconhecer e lidar não somente com as minhas próprias emoções, mas com as de outros integrantes do grupo quando algo não saía como planejado ou era complexo, para uma boa convivência e bom resultado em equipe.
+- Organização e gestão de tempo: foi necessário aprender a trabalhar em sprints, visando um bom resultado para o nosso projeto, pois além de entregar o trabalho, é importante aprender a lidar com prazos (do cliente e da equipe) para que fosse possível fortalecer a confiança na equipe e com o cliente.
 
 - Hard Skills:
-  - Programação em Python.
-  - Programação em MySQL.
-  - Aprendizado de utilização do figma.
-  - Desenvolvimento com o flask, html e css, além de estilzação com o bootstrap.
-  - Aprendizado de como utilizar o github.
+  - Programação em Python
+  - Programação em MySQL
+  - Desenvolvimento com o flask, html e css
+  - Aprendizado em documentação de projetos no github
  
 
 <h6 align="center"> Link do projeto: https://github.com/APIEquipe/EquipeTechEmpireAPI </h6>
 
 ---
 
-### 2º Semestre • 2/2023 • SAT - Sistema acadêmico de TI
+### 1º Semestre de 2023
+
+#### Sistema acadêmico de TI (SAT)
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
@@ -123,16 +89,16 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 
 #### Tecnologias adotadas
 
-- Figma.
-- Node JS.
-- JavaScript.
-- TypeScript.
-- HTML & CSS.
-- MySQL.
-- Prisma.
-- Styled Components.
-- React.
-- Axios.
+- Figma
+- Node JS
+- JavaScript
+- TypeScript
+- HTML & CSS
+- MySQL
+- Prisma
+- Styled Components
+- React
+- Axios
 
 
 #### Contribuições pessoais
