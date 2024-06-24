@@ -103,28 +103,31 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 
 #### Contribuições pessoais como P.O:
 
-- Levantamento de requisitos, desenvolvimento do sistema e elaboração da documentação (DOR e DOD). Mantive comunicação constante e transparente com a equipe e o cliente, ajustei funcionalidades e prioridades a cada Sprint. Além disso, elaborei o modelo conceitual, lógico e físico de banco de dados do projeto e também participei na criação da lógica para funções como prazo de vencimento de prazos para resolução de um chamado e envio dos dados ao back-end para cadastro do chamado.
+- Levantamento de requisitos, desenvolvimento do sistema e elaboração da documentação (DOR e DOD). Mantive comunicação constante e transparente, fazendo questionamentos para que fosse possível adaptar e entregar o projeto conforme desejo do cliente e exclarer de dúvidas da equipe, e ajustei funcionalidades e prioridades a do projeto a cada Sprint. Além disso, elaborei o modelo conceitual, lógico e físico de banco de dados do sistema e também participei na criação da lógica para funções como prazo de vencimento de prazos para resolução de um chamado e envio dos dados ao back-end para cadastro do chamado.
 
 #### Aprendizados
 
  Soft Skills:
   - Resiliência: aprimorado para superar e lidar com as dificuldades e desafios durante o projeto, como novas funcionalidades e tecnologias que ainda não havia desenvolvido em projetos pessoais ou academicamente até o momento.
   - Comunicação assertiva: para apaziguar conflitos que surgiam quando alguma tarefa ou processo do projeto não estava claro para todos e para me comunicar com o cliente e a equipe de forma clara e compreensível para evitar problemas no entendimento de demandas, nos processos e nas entregas.
-  - 
+  - Pensamento Crítico: foi necessário para a priorização das tarefas e elaboração do backlog, identificando possíveis problemas e buscando novas soluções com sabedoria conforme ajustes necessários e desejos do cliente.
+  - Falar em público: aprimorado ao realizar a comunicação com o cliente para mostrar o valor do nosso projeto a cada sprint apresentada.
   
   Hard Skills:
   - Programação em Typescript e JavaScript.
   - Desenvolvimento com Prisma.
   - Estilização com styled componentes.
   - Desenvolvimento com react e axios.
-  - Aprendizado de como utilizar o github(submódulos).
+  - Aprimoração na utilização do Github (submódulos).
 
 
 <h6 align="center"> Link do projeto: https://github.com/FocusQuest/FocusQuestAPI</h6>
 
 ---
 
-### 3º Semestre • 3/2024 • Crtl A
+### 3º Semestre 2024
+
+#### Crtl A
 
 Cliente: Youtan.
 
@@ -137,16 +140,16 @@ Consiste na criação de uma aplicação web que visa facilitar o manuseio dos a
 
 #### Tecnologias adotadas
 
-- Figma.
-- Git.
-- GitHub.
-- TypeScript.
-- Java.
-- Jira.
-- PostgreSQL.
-- Supabase.
-- React.
-- Spring.
+- Figma
+- Git
+- GitHub
+- TypeScript
+- Java
+- Jira
+- PostgreSQL
+- Supabase
+- React
+- Spring
 
 #### Contribuições pessoais
 
@@ -158,6 +161,7 @@ Consiste na criação de uma aplicação web que visa facilitar o manuseio dos a
 - Soft Skills:
   - Criatividade: desenvolvido devido à construção de telas da aplicação.
   - Adaptabilidade: devido à falha em uma das sprints, tivemos que nos adaptar para retornar ao projeto.
+  - Trabalhar sob pressão
   
 - Hard Skills:
   - Melhora na utilização de Typescript e de React.
