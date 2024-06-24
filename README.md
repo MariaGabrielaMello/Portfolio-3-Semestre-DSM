@@ -47,7 +47,7 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 
 #### Principais atividades desenvolvidas como time de deselvolvimento:
 
-- Construção do back-end da aplicação: contribuí no desenvolvimento da lógica de pesquisa e filtragem dos dados que eram de interesse do cliente, por meio de pesquisas sobre o assunto para determinar os possíveis tópicos que seriam pesquisados e adicioná-los no sistema para o cliente. Também contribuí para a estrutura de armazenamentos dos dados com base na lógica de pesquisa, e na estrutura de exportação para gerar o relatório. Além disso atuei na verificação de erros na obtenção dos dados.
+- Construção do back-end da aplicação: contribuí no desenvolvimento da lógica de pesquisa e filtragem dos dados que eram de interesse do cliente por meio de pesquisas sobre o assunto para determinar os possíveis tópicos que seriam pesquisados e adicioná-los ao sistema para o cliente. Também contribuí para a estrutura de armazenamentos dos dados com base na lógica de pesquisa e na estrutura de exportação para gerar o relatório. Além disso atuei na verificação de erros na obtenção dos dados.
 
 #### Aprendizados
 
