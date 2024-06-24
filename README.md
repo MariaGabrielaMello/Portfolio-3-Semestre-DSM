@@ -56,11 +56,11 @@ Soft Skills:
 - Inteligência emocional: sendo o meu primeiro projeto em grupo na área, foi necessário reconhecer e lidar não somente com as minhas próprias emoções, mas com as de outros integrantes do grupo quando algo não saía como planejado ou era complexo, para uma boa convivência e bom resultado em equipe.
 - Organização e gestão de tempo: foi necessário aprender a trabalhar em sprints, visando um bom resultado para o nosso projeto, pois além de entregar o trabalho, é importante aprender a lidar com prazos (do cliente e da equipe) para que fosse possível fortalecer a confiança na equipe e com o cliente.
 
-- Hard Skills:
-  - Python, trabalhando com raspagem e tratamento de dados públicos e privados;
-  - Programação em MySQL
-  - Desenvolvimento com o flask, html e css
-  - Aprendizado em documentação de projetos no github
+Hard Skills:
+- Python, trabalhando com raspagem e tratamento de dados públicos e privados;
+- Programação em MySQL
+- Desenvolvimento com o flask, html e css
+- Aprendizado em documentação de projetos no github
  
 
 <h6 align="center"> Link do projeto: https://github.com/APIEquipe/EquipeTechEmpireAPI </h6>
@@ -73,6 +73,97 @@ Soft Skills:
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
+- Demonstração do usuário:
+https://www.youtube.com/watch?v=VdPHdYxlXpk
+
+- Demonstração do técnico:
+https://www.youtube.com/watch?v=TSAFk3LtE7U
+
+- Demonstração do Administrador:
+https://youtu.be/JQ2jtEcftic?si=HDp7_tvPqk7kb6k0
+
+#### Visão do projeto
+
+<p>Projeto desenvolvido por alunos do 2º semestre do curso de Desenvolvimento de Software Multiplataforma(DSM), da Fatec São José dos Campos - Prof. Jessen Vidal.
+O projeto consiste na criação de uma aplicação de gerenciamento de chamados, o qual foi escolhido para ser direcionado à escolas e instituições de ensino. Deve ser utilizado NodeJS, JavaScript e React para desenvolver essa aplicação, além de banco de dados relacional, a fim de acrescentar ao conhecimento do semestre.</p>
+
+#### Tecnologias adotadas
+
+- Figma
+- Node JS+
+- JavaScript
+- TypeScript
+- HTML & CSS
+- MySQL
+- Prisma
+- Styled Components
+- React
+- Axios
+
+
+#### Contribuições pessoais como P.O:
+
+- Levantamento de requisitos, desenvolvimento do sistema e elaboração da documentação (DOR e DOD). Mantive comunicação constante e transparente com a equipe e o cliente, ajustei funcionalidades e prioridades a cada Sprint. Além disso, elaborei o modelo conceitual, lógico e físico de banco de dados do projeto e também participei na criação da lógica para funções como prazo de vencimento de prazos para resolução de um chamado e envio dos dados ao back-end para cadastro do chamado.
+
+#### Aprendizados
+
+ Soft Skills:
+  - Resiliência: aprimorado para superar e lidar com as dificuldades e desafios durante o projeto, como novas funcionalidades e tecnologias que ainda não havia desenvolvido em projetos pessoais ou academicamente até o momento.
+  - Comunicação assertiva: para apaziguar conflitos que surgiam quando alguma tarefa ou processo do projeto não estava claro para todos e para me comunicar com o cliente e a equipe de forma clara e compreensível para evitar problemas no entendimento de demandas, nos processos e nas entregas.
+  - 
+  
+  Hard Skills:
+  - Programação em Typescript e JavaScript.
+  - Desenvolvimento com Prisma.
+  - Estilização com styled componentes.
+  - Desenvolvimento com react e axios.
+  - Aprendizado de como utilizar o github(submódulos).
+
+
+<h6 align="center"> Link do projeto: https://github.com/FocusQuest/FocusQuestAPI</h6>
+
+---
+
+### 3º Semestre • 3/2024 • Crtl A
+
+Cliente: Youtan.
+
+https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-2866f25f72ab
+
+#### Visão do projeto
+
+<p>Projeto desenvolvido por alunos do 3º semestre do curso de Desenvolvimento de Software Multiplataforma, da Fatec São José dos Campos - Prof. Jessen Vidal.
+Consiste na criação de uma aplicação web que visa facilitar o manuseio dos ativos de uma empresa, sendo acompanhar quem atualmente possui o ativo, acompanhar manutenções do ativo, entre outros.</p>
+
+#### Tecnologias adotadas
+
+- Figma.
+- Git.
+- GitHub.
+- TypeScript.
+- Java.
+- Jira.
+- PostgreSQL.
+- Supabase.
+- React.
+- Spring.
+
+#### Contribuições pessoais
+
+- Construção de parte do wireframe do projeto.
+- Construção do front-end da aplicação: tela de manual de usuário, cadastro de usuário, linha do tempo, correção de diferença entre páginas.
+
+#### Aprendizados
+
+- Soft Skills:
+  - Criatividade: desenvolvido devido à construção de telas da aplicação.
+  - Adaptabilidade: devido à falha em uma das sprints, tivemos que nos adaptar para retornar ao projeto.
+  
+- Hard Skills:
+  - Melhora na utilização de Typescript e de React.
+  - Conexão do front-end feito com o back-end.
+ 
+<h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
 - Demonstração do usuário:
 https://www.youtube.com/watch?v=VdPHdYxlXpk
 
