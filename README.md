@@ -12,9 +12,13 @@
 
 ---
 
+# Introdução
+
+Este portfólio acadêmico foi construído com projetos realizados até o momento no curso de Desenvolvimento de Software Multiplataforma pela [Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/) para avaliação da matéria Gestão de Ágil de Projetos de Sofware. 
+
 # Sobre mim
 
-<p>Estudante do 3º Semestre de Desenvolvimento de Software Multiplataforma na FATEC prof. Jessen Vidal - SJC. Durante a pandemia, ao observar as mudanças pelas quais passamos no que diz respeito aos hábitos do dia a dia que costumávamos realizar de forma presencial e migraram para o modo online, desenvolvi grande interesse pela área de TI. Neste período, pude perceber de forma mais clara como a tecnologia pode nos auxiliar e contribuir para que as tarefas do cotidiano ou atividade mais complexas sejam concluídas mesmo à distância. Assim, decidi ingressar na FATEC e cursar Desnvolvimento de Software, para contribuir com a minha área de interesse. As atividades em que mais me desevolvi até o momento são relacionadas ao frontend (UX e UI). Atualmente também tenho grande curiosidade nos assuntos de IA e outros tópicos que envolvam a interação humano computador e pretendo me aprofundar mais nestes conteúdos.  </p>
+<p>Sou ingressante do primeiro semestre do ano de 2023 no curso de Desenvolvimento de Software Multiplataforma na FATEC prof. Jessen Vidal - SJC e atualmente curso o 3º Semestre. Durante a pandemia, ao observar as mudanças pelas quais passamos no que diz respeito aos hábitos do dia a dia que costumávamos realizar de forma presencial e migraram para o modo online, desenvolvi grande interesse pela área de TI. Neste período, pude perceber de forma mais clara como a tecnologia pode nos auxiliar e contribuir para que as tarefas do cotidiano ou atividade mais complexas sejam concluídas mesmo à distância. Assim, decidi ingressar na FATEC e cursar Desnvolvimento de Software, para contribuir com a minha área de interesse. As atividades em que mais me desevolvi até o momento são relacionadas ao frontend (UX e UI). Atualmente também tenho grande curiosidade nos assuntos de IA e outros tópicos que envolvam a interação humano computador e pretendo me aprofundar mais nestes conteúdos para poder atuar em futuros projetos relacionados ou no âmbito acadêmico.  </p>
 
 ---
 
