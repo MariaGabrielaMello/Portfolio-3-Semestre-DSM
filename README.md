@@ -100,7 +100,7 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
 - Axios
 
 
-#### Contribuições pessoais como P.O:
+#### Principais atividades desenvolvidas como P.O:
 
 - Levantamento de requisitos, desenvolvimento do sistema e elaboração da documentação (DOR e DOD). Mantive comunicação constante e transparente, fazendo questionamentos para que fosse possível adaptar e entregar o projeto conforme desejo do cliente e exclarer de dúvidas da equipe, e ajustei funcionalidades e prioridades a do projeto a cada Sprint. Além disso, elaborei o modelo conceitual, lógico e físico de banco de dados do sistema e também participei na criação da lógica para funções como prazo de vencimento de prazos para resolução de um chamado e envio dos dados ao back-end para cadastro do chamado.
 
@@ -150,7 +150,7 @@ Consiste na criação de uma aplicação web que visa facilitar a gestão dos at
 - React
 - Spring
 
-#### Contribuições pessoais como time de desenvolvimento
+#### Principais atividades desenvolvidas como time de deselvolvimento:
 
 Desenvolvimento das páginas e da lógica para listagem de ativos, cadastro de usuário e alteração de senha bem como a integração com o backend. Auxílio na padrinização do estilo das páginas e do wireframe.
 
