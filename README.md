@@ -24,7 +24,7 @@
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
-[![Video Sistema de ánalise - Covid Longa](https://github.com/BrunoFerCam/Bruno-F-Campos---Portfolio-de-Projetos/tree/main/Arquivos)
+--------------------link aqui
 
 #### Visão do projeto
 
