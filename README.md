@@ -135,7 +135,7 @@ https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-
 #### Visão do projeto
 
 <p>Projeto desenvolvido por alunos do 3º semestre do curso de Desenvolvimento de Software Multiplataforma, da Fatec São José dos Campos - Prof. Jessen Vidal.
-Consiste na criação de uma aplicação web que visa facilitar a gestão dos ativos de uma empresa, incluindo atividades como cadastrar, atualizar, gerar relatórios, atribuir e registrar mautenção de manutenção dos ativos, entre outros.</p>
+Consiste na criação de uma aplicação web que visa facilitar a gestão dos ativos de uma empresa, incluindo atividades como cadastrar, atualizar, gerar relatórios, atribuir e registrar a manutenção dos ativos, entre outros.</p>
 
 #### Tecnologias adotadas
 
@@ -152,14 +152,14 @@ Consiste na criação de uma aplicação web que visa facilitar a gestão dos at
 
 #### Principais atividades desenvolvidas como time de deselvolvimento:
 
-Desenvolvimento das páginas e da lógica para listagem de ativos, cadastro de usuário e alteração de senha bem como a integração com o backend. Auxílio na padrinização do estilo das páginas e do wireframe.
+Desenvolvimento das páginas e elaboração da lógica para a listagem de ativos de forma clara e organizada para o cliente, o cadastro de usuário e a alteração de senha, bem como a integração delas com o backend. Auxílio na padronização do estilo e correção de bugs das páginas e do wireframe.
 
 #### Aprendizados
 
 - Soft Skills:
-  - Criatividade: desenvolvido devido à construção de telas da aplicação.
-  - Adaptabilidade: devido à falha em uma das sprints, tivemos que nos adaptar para retornar ao projeto.
-  - Trabalhar sob pressão
+  - Solução De Problemas: devido à optar em primeiro momento pela utilização do banco de dado online (Supabase), enfrentamos algumas dificuldades durante a apresentação da 2ª Sprint em razão da internet local, sugeri então para solucionar esse problema e a limitação na conexão de usuários simultaneamente no banco, a clonagem do banco já existente enquanto migrávamos para o banco local, o que nos possibilitou conectar mais pessoas ao banco ao mesmo tempo e desenvolver o projeto com mais agilidade ao passo que ajustamos as tecnologias utilizadas.
+  - Responsabilidade: entreguei minhas tarefas conforme prazos tendo em mente o sucesso do projeto e a confiança dos demais integrantes do grupo.
+  - Trabalhar sob pressão: habilidade aprimorada para a correção das dificuldades citadas acima enquanto buscávamos soluções e formas de nos recuperar na Sprint seguinte, entregando o projeto com qualidade e conforme planjado após contornar os imprevistos.
   
 - Hard Skills:
   - Melhora na utilização de Typescript e de React.
