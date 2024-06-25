@@ -38,13 +38,13 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 
 #### Tecnologias utilizadas
 
-- Python
-- HTML & CSS3
-- Flask
-- Bootstrap
-- MySQL
-- GitHub
-- Figma
+- Python: sei fazer com relativa automonomia
+- HTML & CSS3: sei fazer com autonomia
+- Flask: seu fazer com autonomia
+- Bootstrap: sei fazer com autonomia
+- MySQL: sei fazer com relativa automonomia
+- GitHub: sei fazer com autonomia
+- Figma: sei fazer com autonomia
 
 
 #### Principais atividades desenvolvidas como time de deselvolvimento:
@@ -57,12 +57,13 @@ Soft Skills:
 - Comunicação e trabalho em grupo: pois foi necessário compreender melhor os meus colegas e me expressar de forma mais clara e objetiva, para que fosse possível desenvolver o projeto em sincronia e com transparência o que é imprescindível para o sucesso do projeto.
 - Inteligência emocional: sendo o meu primeiro projeto em grupo na área, foi necessário reconhecer e lidar não somente com as minhas próprias emoções, mas com as de outros integrantes do grupo quando algo não saía como planejado ou era complexo, para uma boa convivência e bom resultado em equipe.
 - Organização e gestão de tempo: foi necessário aprender a trabalhar em sprints, visando um bom resultado para o nosso projeto, pois além de entregar o trabalho, é importante aprender a lidar com prazos (do cliente e da equipe) para que fosse possível fortalecer a confiança na equipe e com o cliente.
+- Empatia: desenvolvido para compreender e apoiar mais a minha equipe e para compreender melhor os desejos do cliente.
 
 Hard Skills:
-- Python, trabalhando com raspagem e tratamento de dados públicos e privados;
-- Programação em MySQL
-- Desenvolvimento com o flask, html e css
-- Aprendizado em documentação de projetos no github
+- Python, trabalhando com raspagem e tratamento de dados públicos e privados: sei fazer com relativa automonomia
+- Programação em MySQL: sei fazer com relativa automonomia
+- Desenvolvimento com o flask, html e css: sei fazer com automonomia
+- Aprendizado em documentação de projetos no github: sei fazer com automonomia
 
 ---
 
@@ -115,11 +116,11 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
   - Falar em público: aprimorado ao realizar a comunicação com o cliente para mostrar o valor do nosso projeto a cada sprint apresentada.
   
   Hard Skills:
-  - Programação em Typescript e JavaScript.
-  - Desenvolvimento com Prisma.
-  - Estilização com styled componentes.
-  - Desenvolvimento com react e axios.
-  - Aprimoração na utilização do Github (submódulos).
+  - Programação em Typescript e JavaScript: sei fazer com relativa automonomia
+  - Desenvolvimento com Prisma: sei fazer com relativa automonomia
+  - Estilização com styled componentes: sei fazer com automonomia
+  - Desenvolvimento com react e axios: sei fazer com automonomia
+  - Aprimoração na utilização do Github (submódulos): sei fazer com relativa automonomia
 
 
 <h6 align="center"> Link do projeto: https://github.com/FocusQuest/FocusQuestAPI</h6>
@@ -175,8 +176,10 @@ Desenvolvimento das páginas e elaboração da lógica para a listagem de ativos
   - Trabalhar sob pressão: habilidade aprimorada para a correção das dificuldades citadas acima enquanto buscávamos soluções e formas de nos recuperar na Sprint seguinte, entregando o projeto com qualidade e conforme planjado após contornar os imprevistos.
   
 - Hard Skills:
-  - Melhora na utilização de Typescript e de React.
-  - Conexão do front-end feito com o back-end.
+  - Typescript e de React: sei fazer com autonomia
+  - PostgreSQL: sei fazer com relativa autonomia
+  - Supabase: sei fazer com relativa autonomia
+  - Conexão do front-end feito com o back-end: sei fazer com relativa autonimia
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
 
