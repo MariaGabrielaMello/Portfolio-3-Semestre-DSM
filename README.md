@@ -132,6 +132,17 @@ Cliente: Youtan.
 
 https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-2866f25f72ab
 
+- Demonstração do usuário:
+https://www.youtube.com/watch?v=VdPHdYxlXpk
+
+- Demonstração do técnico:
+https://www.youtube.com/watch?v=TSAFk3LtE7U
+
+- Demonstração do Administrador:
+https://youtu.be/JQ2jtEcftic?si=HDp7_tvPqk7kb6k0
+ 
+<h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
+
 #### Visão do projeto
 
 <p>Projeto desenvolvido por alunos do 3º semestre do curso de Desenvolvimento de Software Multiplataforma, da Fatec São José dos Campos - Prof. Jessen Vidal.
@@ -164,17 +175,6 @@ Desenvolvimento das páginas e elaboração da lógica para a listagem de ativos
 - Hard Skills:
   - Melhora na utilização de Typescript e de React.
   - Conexão do front-end feito com o back-end.
- 
-<h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
-
-- Demonstração do usuário:
-https://www.youtube.com/watch?v=VdPHdYxlXpk
-
-- Demonstração do técnico:
-https://www.youtube.com/watch?v=TSAFk3LtE7U
-
-- Demonstração do Administrador:
-https://youtu.be/JQ2jtEcftic?si=HDp7_tvPqk7kb6k0
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
 
