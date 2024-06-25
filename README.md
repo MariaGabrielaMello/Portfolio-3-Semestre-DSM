@@ -36,18 +36,18 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 
 #### Tecnologias utilizadas
 
-- Python.
-- HTML & CSS3.
-- Flask.
-- Bootstrap.
-- MySQL.
-- GitHub.
-- Figma.
+- Python
+- HTML & CSS3
+- Flask
+- Bootstrap
+- MySQL
+- GitHub
+- Figma
 
 
 #### Principais atividades desenvolvidas como time de deselvolvimento:
 
-- Construção do back-end da aplicação: contribuí no desenvolvimento da lógica de pesquisa e filtragem dos dados que eram de interesse do cliente por meio de pesquisas sobre o assunto para determinar os possíveis tópicos que seriam pesquisados e adicioná-los ao sistema para o cliente. Também contribuí para a estrutura de armazenamentos dos dados com base na lógica de pesquisa e na estrutura de exportação para gerar o relatório. Além disso atuei na verificação de erros na obtenção dos dados.
+- Contribuí no desenvolvimento da lógica de pesquisa e filtragem dos dados que eram de interesse do cliente por meio de pesquisas sobre o assunto para determinar os possíveis tópicos que seriam pesquisados e adicioná-los ao sistema para o cliente. Também contribuí para a estrutura de armazenamentos dos dados com base na lógica de pesquisa e na estrutura de exportação para gerar o relatório. Além disso atuei na verificação de erros na obtenção dos dados.
 
 #### Aprendizados
 
@@ -135,7 +135,7 @@ https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-
 #### Visão do projeto
 
 <p>Projeto desenvolvido por alunos do 3º semestre do curso de Desenvolvimento de Software Multiplataforma, da Fatec São José dos Campos - Prof. Jessen Vidal.
-Consiste na criação de uma aplicação web que visa facilitar o manuseio dos ativos de uma empresa, sendo acompanhar quem atualmente possui o ativo, acompanhar manutenções do ativo, entre outros.</p>
+Consiste na criação de uma aplicação web que visa facilitar a gestão dos ativos de uma empresa, incluindo atividades como cadastrar, atualizar, gerar relatórios, atribuir e registrar mautenção de manutenção dos ativos, entre outros.</p>
 
 #### Tecnologias adotadas
 
@@ -150,10 +150,9 @@ Consiste na criação de uma aplicação web que visa facilitar o manuseio dos a
 - React
 - Spring
 
-#### Contribuições pessoais
+#### Contribuições pessoais como time de desenvolvimento
 
-- Construção de parte do wireframe do projeto.
-- Construção do front-end da aplicação: tela de manual de usuário, cadastro de usuário, linha do tempo, correção de diferença entre páginas.
+Desenvolvimento das páginas e da lógica para listagem de ativos, cadastro de usuário e alteração de senha bem como a integração com o backend. Auxílio na padrinização do estilo das páginas e do wireframe.
 
 #### Aprendizados
 
@@ -175,85 +174,5 @@ https://www.youtube.com/watch?v=TSAFk3LtE7U
 
 - Demonstração do Administrador:
 https://youtu.be/JQ2jtEcftic?si=HDp7_tvPqk7kb6k0
-
-#### Visão do projeto
-
-<p>Projeto desenvolvido por alunos do 2º semestre do curso de Desenvolvimento de Software Multiplataforma(DSM), da Fatec São José dos Campos - Prof. Jessen Vidal.
-O projeto consiste na criação de uma aplicação de gerenciamento de chamados, o qual foi escolhido para ser direcionado à escolas e instituições de ensino. Deve ser utilizado NodeJS, JavaScript e React para desenvolver essa aplicação, além de banco de dados relacional, a fim de acrescentar ao conhecimento do semestre.</p>
-
-#### Tecnologias adotadas
-
-- Figma
-- Node JS+
-- JavaScript
-- TypeScript
-- HTML & CSS
-- MySQL
-- Prisma
-- Styled Components
-- React
-- Axios
-
-
-#### Contribuições pessoais como P.O:
-
-- Levantamento de requisitos, desenvolvimento do sistema e elaboração da documentação (DOR e DOD). Mantive comunicação constante e transparente com a equipe e o cliente, ajustei funcionalidades e prioridades a cada Sprint. Além disso, elaborei o modelo conceitual, lógico e físico de banco de dados do projeto e também participei na criação da lógica para funções como prazo de vencimento de prazos para resolução de um chamado e envio dos dados ao back-end para cadastro do chamado.
-
-#### Aprendizados
-
-- Soft Skills:
-  - Resiliência
-  - 
-  
-- Hard Skills:
-  - Programação em Typescript e JavaScript.
-  - Desenvolvimento com Prisma.
-  - Estilização com styled componentes.
-  - Desenvolvimento com react e axios.
-  - Aprendizado de como utilizar o github(submódulos).
-
-
-<h6 align="center"> Link do projeto: https://github.com/FocusQuest/FocusQuestAPI</h6>
-
----
-
-### 3º Semestre • 3/2024 • Crtl A
-
-Cliente: Youtan.
-
-https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-2866f25f72ab
-
-#### Visão do projeto
-
-<p>Projeto desenvolvido por alunos do 3º semestre do curso de Desenvolvimento de Software Multiplataforma, da Fatec São José dos Campos - Prof. Jessen Vidal.
-Consiste na criação de uma aplicação web que visa facilitar o manuseio dos ativos de uma empresa, sendo acompanhar quem atualmente possui o ativo, acompanhar manutenções do ativo, entre outros.</p>
-
-#### Tecnologias adotadas
-
-- Figma.
-- Git.
-- GitHub.
-- TypeScript.
-- Java.
-- Jira.
-- PostgreSQL.
-- Supabase.
-- React.
-- Spring.
-
-#### Contribuições pessoais
-
-- Construção de parte do wireframe do projeto.
-- Construção do front-end da aplicação: tela de manual de usuário, cadastro de usuário, linha do tempo, correção de diferença entre páginas.
-
-#### Aprendizados
-
-- Soft Skills:
-  - Criatividade: desenvolvido devido à construção de telas da aplicação.
-  - Adaptabilidade: devido à falha em uma das sprints, tivemos que nos adaptar para retornar ao projeto.
-  
-- Hard Skills:
-  - Melhora na utilização de Typescript e de React.
-  - Conexão do front-end feito com o back-end.
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
