@@ -176,3 +176,7 @@ https://www.youtube.com/watch?v=TSAFk3LtE7U
 https://youtu.be/JQ2jtEcftic?si=HDp7_tvPqk7kb6k0
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
+
+### Melhorias e Aprimoramento
+
+- Domínio da linguagem Java: foi introduzida nesse semestre e continuará sendo utilizada durante o próximo. Pretendo me aprofundar no backend como neste último projeto participei principalmente em atividades na área de frontend. Assim, quero nivelar os meus conhecimentos e fortalecer meus pontos fracos.
