@@ -166,6 +166,7 @@ Desenvolvimento das páginas e elaboração da lógica para a listagem de ativos
   - Conexão do front-end feito com o back-end.
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
+
 - Demonstração do usuário:
 https://www.youtube.com/watch?v=VdPHdYxlXpk
 
