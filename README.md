@@ -118,6 +118,7 @@ O projeto consiste na criação de uma aplicação de gerenciamento de chamados,
   - Comunicação assertiva: para apaziguar conflitos que surgiam quando alguma tarefa ou processo do projeto não estava claro para todos e para me comunicar com o cliente e a equipe de forma clara e compreensível para evitar problemas no entendimento de demandas, nos processos e nas entregas.
   - Pensamento Crítico: foi necessário para a priorização das tarefas e elaboração do backlog, identificando possíveis problemas e buscando novas soluções com sabedoria conforme ajustes necessários e desejos do cliente.
   - Falar em público: aprimorado ao realizar a comunicação com o cliente para mostrar o valor do nosso projeto a cada sprint apresentada.
+  -  Autonomia: para contribuir com a equipe e o desenvolvimento do projeto tendo em consideração as minhas responsabilidades e tomando decisões conforme o método scrum, onde ná há chefes.
   
   Hard Skills:
   - Programação em Typescript e JavaScript: sei fazer com relativa automonomia
