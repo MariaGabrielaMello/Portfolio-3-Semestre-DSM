@@ -24,7 +24,7 @@
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
---------------------link aqui
+[link aqui](https://github.com/MariaGabrielaMello/Portfolio-3-Semestre-DSM/tree/main/img)
 
 #### Visão do projeto
 
@@ -61,9 +61,6 @@ Hard Skills:
 - Programação em MySQL
 - Desenvolvimento com o flask, html e css
 - Aprendizado em documentação de projetos no github
- 
-
-<h6 align="center"> Link do projeto: ------------------------------------------------------ </h6>
 
 ---
 
