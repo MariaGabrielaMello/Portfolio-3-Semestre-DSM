@@ -1,7 +1,7 @@
 # Portfólio - Maria Gabriela Mello de Oliveira
 <h4>3º Semestre de Desenvolvimento de Software Multiplataforma — FATEC prof. Jessen Vidal</h4> 
 
-<img src="./img/foto_pessoal.png" style = "width: 25%" alt = "Gif Projeto1">
+<img src="./img/foto_pessoal.png" style = "width: 20%" alt = "Gif Projeto1">
 
 ---
 
