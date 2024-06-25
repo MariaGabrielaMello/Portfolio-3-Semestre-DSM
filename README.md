@@ -68,6 +68,8 @@ Hard Skills:
 
 #### Sistema acadêmico de TI (SAT)
 
+<img src="./img/Captura de tela 2024-06-24 110925.png" style = "width: 50%" alt = "Imagem Projeto2">
+
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
 - Demonstração do usuário:
