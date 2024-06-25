@@ -24,7 +24,7 @@
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
-[link aqui](https://github.com/MariaGabrielaMello/Portfolio-3-Semestre-DSM/tree/main/img)
+<img src="./img/1Semestre_API_Wireframe.gif" style = "width: 50%" alt = "Gif Projeto1">
 
 #### Visão do projeto
 
