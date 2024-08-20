@@ -44,7 +44,7 @@ Back-end do projeto desenvolvido em Python3+ utilizando o microframework flask e
 
 - Python: sei fazer com relativa automonomia
 - HTML & CSS3: sei fazer com autonomia
-- Flask: seu fazer com autonomia
+- Flask: sei fazer com autonomia
 - Bootstrap: sei fazer com autonomia
 - MySQL: sei fazer com relativa automonomia
 - GitHub: sei fazer com autonomia
