@@ -30,7 +30,8 @@ Este portfólio acadêmico foi construído com projetos realizados até o moment
 
 Cliente: Fatec São José dos Campos - Prof. Jessen Vidal.
 
-<img src="./img/1Semestre_API_Wireframe.gif" style = "width: 50%" alt = "Gif Projeto1">
+![391516083-2721a4da-fa11-45a4-88b1-ea1b52913ae9](https://github.com/user-attachments/assets/b00936a4-f660-4ef6-a9bc-f87d6cf3b1df)
+
 
 #### Visão do projeto
 
